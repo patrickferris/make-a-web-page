@@ -1,0 +1,35 @@
+* {
+	font-family: arial;
+
+	background-color: #838383;
+
+}
+
+div {
+	max-width: 50%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 480px;
+}
+
+a {
+	color: #31238B;
+}
+
+h1 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	background-color: #303030;
+	color: #ffffff;
+}
+
+h2 {
+	background-color: #505050;
+	color: #eaeaea;
+	text-align: center;
+}
